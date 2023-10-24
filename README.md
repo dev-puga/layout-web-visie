@@ -24,6 +24,8 @@ Trata-se de uma seção de página web para exibição de produtos. Consumindo a
 2. Instale as dependências: `npm install`.
 4. Execute o projeto: `npm run dev`.
 
+![Layout-web](https://raw.githubusercontent.com/dev-puga/layout-web-visie/main/layout-web.PNG)
+
 ## Contato
 
 - Email: [wpuga.dev@gmail.com](mailto:wpuga.dev@gmail.com)
